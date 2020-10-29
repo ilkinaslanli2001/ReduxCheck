@@ -1,0 +1,11 @@
+{
+    "products": [
+      
+        { "id": 1, "title": "Timex Weekender Chronograph 40mm Watch", "description": "Lorem Ipsum"  },
+        { "id": 2, "title": "Amazon Essentials Men's Crewneck Sweater", "description": "Lorem Ipsum2" },
+        { "id": 3, "title": "Medium Hass Avocado", "description": "Freshness Guarantee" }
+   
+   
+    ]
+  
+  }

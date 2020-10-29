@@ -1,0 +1,12 @@
+.navBar
+{
+  background-color: slateblue;
+ 
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.navBar__links
+{
+  color: white;
+}
